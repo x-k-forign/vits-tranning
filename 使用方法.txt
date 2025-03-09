@@ -1,0 +1,25 @@
+python scripts/video2audio.py
+python scripts/denoise_audio.py
+python scripts/long_audio_transcribe.py --languages "CJ" --whisper_size medium
+python scripts/short_audio_transcribe.py --languages "CJ" --whisper_size medium
+python scripts/resample.py
+
+# 辅助模型
+python preprocess_v2.py --add_auxiliary_data True --languages "CJ"
+#不开启
+python preprocess_v2.py --languages "{PRETRAINED_MODEL}"
+
+# 开始训练
+pip install imageio[ffmpeg] ffmpeg-python
+python finetune_speaker_v2.py -m ./OUTPUT_MODEL --max_epochs "200" --drop_speaker_embed True
+
+继续训练	
+python finetune_speaker_v2.py -m ./OUTPUT_MODEL --max_epochs "轮数" --drop_speaker_embed False --cont True
+
+要查看训练进度，请打开一个新终端并cd转到项目根目录，运行tensorboard --logdir=./OUTPUT_MODEL，然后使用您的 Web 浏览器访问localhost:6006。
+
+测试
+python VC_inference.py --model_dir ./OUTPUT_MODEL/G_latest.pth --share True
+
+删除
+del /Q /S .\custom_character_voice\* .\video_data\* .\raw_audio\* .\denoised_audio\* .\segmented_character_voice\* .\separated\* long_character_anno.txt short_character_anno.txt

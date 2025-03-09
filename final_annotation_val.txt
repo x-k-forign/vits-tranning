@@ -1,0 +1,261 @@
+./segmented_character_voice\Roxy\Roxy_1500_0.wav|0|wa↑taʃiwa ki↓ʃiimigɯrɯdiadesU. yo↑roʃIkɯonegaiʃima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_1.wav|0|e↓Q, ʃI↑ka↓ʃi, so↑ʧirano o↑kosamani ma↓jɯʦɯno ri↓roNga ri↓kai de↑ki↓rɯtowa o↑moimase↓Nga.
+./segmented_character_voice\Roxy\Roxy_1500_2.wav|0|wa↑karima↓ʃIta. ya↑rerɯ ko↑to↓wa ya↓Qte mi↑maʃo↓o.
+./segmented_character_voice\Roxy\Roxy_1500_3.wav|0|a↑tarimaejanaidesU↓ka.
+./segmented_character_voice\Roxy\Roxy_1500_4.wav|0|ma↓jɯʦɯwa o↓okIkɯwakerɯto sa↑N↓ʃɯrɯiʃIka a↑rimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_5.wav|0|ko↑ogekima↓jɯʦɯ, ʧi↑yɯma↓jɯʦɯ, ʃo↑okaNma↓jɯʦɯ, so↑re↓zore ʃo↑kyɯɯ, ʧɯ↑ɯkyɯɯ, jo↑okyɯɯ,
+./segmented_character_voice\Roxy\Roxy_1500_6.wav|0|ʃi↑N↓kyɯɯ, ko↑okyɯɯ, te↑ekyɯɯ, fU↑ka↓kyɯɯto na↑nada↓Nkaini bɯ↑Nrɯi sa↑rete i↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_7.wav|0|so↑ʃIte so↑no ma↓jɯʦɯo ʦU↑kaɯniwa ma↓ryokɯga hI↑ʦɯyoode↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_8.wav|0|ji↑bɯNno ta↓inaini a↓rɯ ma↓ryokUka.
+./segmented_character_voice\Roxy\Roxy_1500_9.wav|0|a↓Q, do↓oka ʃi↑ma↓ʃItaka?
+./segmented_character_voice\Roxy\Roxy_1500_10.wav|0|i↓idesU. to↓nikakɯ ma↓zɯwa o↑tehoNo ɯ↑ʦɯ ʃo↓o sɯ↑rɯ↓node, ma↑ne ʃI↑te mi↓te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_11.wav|0|i↓ʦɯno mo↑tome↓rɯ to↑koroni, o↓oinarɯ mi↑zɯno ka↓gowa a↑ra↓N.
+./segmented_character_voice\Roxy\Roxy_1500_12.wav|0|se↑eryoona↓rɯ se↑sera↓gino na↑gare↓o i↓ma ko↑koni.
+./segmented_character_voice\Roxy\Roxy_1500_13.wav|0|wo↑otaabo↓orɯ!
+./segmented_character_voice\Roxy\Roxy_1500_14.wav|0|na↓rɯ ʧI↑kara↓wa ho↓oʃɯni na↓rɯ ka↑tee.
+./segmented_character_voice\Roxy\Roxy_1500_15.wav|0|ʧI↑kara↓o ɯ↑ʃinai↓ʃI ka↑naʃani, fU↑tatabi ta↑ʧiagarɯ ʧI↑kara↓o a↑tae.
+./segmented_character_voice\Roxy\Roxy_1500_16.wav|0|hi↑iriNgɯ!
+./segmented_character_voice\Roxy\Roxy_1500_17.wav|0|i↑ie, kI↑ʧi↓Nto kɯ↓NreN sɯ↑re↓ba, ko↑nokɯraiwa da↓renidemo de↑kima↓sUyo.
+./segmented_character_voice\Roxy\Roxy_1500_18.wav|0|na↓ʃi!?
+./segmented_character_voice\Roxy\Roxy_1500_19.wav|0|so↑o, i↓ʦɯmowa na↓ʃi.
+./segmented_character_voice\Roxy\Roxy_1500_20.wav|0|na↑rɯhodo. ko↑rewa kI↑tai↓gaiga a↑ri↓soodesUne.
+./segmented_character_voice\Roxy\Roxy_1500_21.wav|0|sa↑QsokU ʃi↑Qpai ʃI↑te ʃi↑maima↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_22.wav|0|a↑ʃIta↓niwa ka↓ikodesUkane.
+./segmented_character_voice\Roxy\Roxy_1500_23.wav|0|so↓mosomo ma↓jɯʦUto i↑ɯ no↑wa, o↑omɯ↓kaʃIto a↓rɯ ʃɯ↓zokɯga ga↑itekIkara mi↑o ma↑mo↓rɯ ta↑me,
+./segmented_character_voice\Roxy\Roxy_1500_24.wav|0|se↑eree↓taʧIto ta↑iwa ʃ i, ka↑zeya ʦU↑ʧi↓o a↑yaʦɯ↓Qta no↑ga re↓izɯdato i↑warete i↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_25.wav|0|i↓mano ma↓jɯʦɯwa, hI↑to↓zokɯga ma↓zokUtono na↑ga↓i a↑rasoino na↓kade, so↑no ma↓jɯʦɯo ma↑ne ʃ i, ke↑etaika sa↑sete i↑Qta mo↑no↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_26.wav|0|mo↑ʧi↓roNdesU.
+./segmented_character_voice\Roxy\Roxy_1500_27.wav|0|a↓a, ʧi↑namini wa↑taʃimo ma↓zokɯdesU.
+./segmented_character_voice\Roxy\Roxy_1500_28.wav|0|ha↓i.
+./segmented_character_voice\Roxy\Roxy_1500_29.wav|0|pa↑ɯrosaN↓taʧimo wa↑taʃino sɯ↓gatao mi↓te, o↑doro↓itetadeʃo?
+./segmented_character_voice\Roxy\Roxy_1500_30.wav|0|ʃi↑Qʧa kɯ↑arimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_31.wav|0|a↑rewa wa↑taʃino ka↑mi↓o mi↓te o↑doro↓iteta N↓desUyo.
+./segmented_character_voice\Roxy\Roxy_1500_32.wav|0|kI↑kasarete i↑mase↓Nka?
+./segmented_character_voice\Roxy\Roxy_1500_33.wav|0|sU↑perɯdo↓zokUto i↑ɯ o↑soroʃi↓i ma↓zokɯno ko↑to.
+./segmented_character_voice\Roxy\Roxy_1500_34.wav|0|ha↓i.
+./segmented_character_voice\Roxy\Roxy_1500_35.wav|0|i↓makara yo↓Njɯɯ go↑hyakɯneNhodo ma↓edesUga,
+./segmented_character_voice\Roxy\Roxy_1500_36.wav|0|ra↑pɯrasɯse↓NekIto i↑ɯ, hI↑to↓zokUto ma↓zokɯno o↓okina a↑rasoiga a↑rima↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_37.wav|0|so↑no a↑rasoino na↓kade, ka↑rerasUperɯdo↓zokɯwa te↑kimi↓kata.
+./segmented_character_voice\Roxy\Roxy_1500_38.wav|0|jo↑ʃi↓domo ka↑Nkee na↓ʃini gya↑kUsaʦɯo kɯ↑rika↓eʃi, a↑bare ma↑waQta so↑ode↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_39.wav|0|so↑no se↓ide, a↑rayɯ↓rɯ ʃɯ↓zokUkara i↓mi ki↑raware,
+./segmented_character_voice\Roxy\Roxy_1500_40.wav|0|se↑Nsooga ʃɯ↑ɯkeʦɯ ʃI↑ta no↑ʧi, ma↑ta↓irikUkara ʦɯ↑ihoo sa↑reta↓to kI↑kima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_41.wav|0|so↑rekɯ↓rai a↑bɯnai ʃɯ↓zokɯna N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_42.wav|0|ko↑domono ko↓ro, yo↓kɯ i↑wareta mo↑no↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_43.wav|0|yo↓rɯ o↑so↓kɯmade o↑ki↓te i↑rɯto, sU↑perɯdo↓zokɯga no↑Qte ki↓te ta↑be↓te ʃi↑maɯ↓zo.
+./segmented_character_voice\Roxy\Roxy_1500_44.wav|0|i↓idesUka?
+./segmented_character_voice\Roxy\Roxy_1500_45.wav|0|to↓nikakɯ, e↑merarɯdogɯri↓iNno ka↑mi↓de,
+./segmented_character_voice\Roxy\Roxy_1500_46.wav|0|ga↑kɯni a↑kai ho↑osekino yo↓ona mo↑no↓ga ʦɯ↓ita ʃɯ↓zokɯniwa,
+./segmented_character_voice\Roxy\Roxy_1500_47.wav|0|ze↑Qtaini ʧI↑kazɯ↓itewa i↑kemase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_48.wav|0|ka↓zokɯo mi↑nagoroʃini sa↑rerɯkamo ʃi↑remase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_49.wav|0|wa↑taʃino ka↑mi↓wa hI↑kari↓no ka↑geNde, so↑no mi↑doriironi mi↑e↓nakɯmo na↓i N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_50.wav|0|a↑ri↓gatoo go↑zaima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_51.wav|0|de↓mo so↑oyɯɯ ko↑to↓wa, ʃo↑oraisUkina ko↑ga de↑ki↓ta to↑ki↓ni i↑Qte a↑ge↓te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_52.wav|0|so↑odesU↓ka.
+./segmented_character_voice\Roxy\Roxy_1500_53.wav|0|a↓to jɯ↑ɯ↓neN ta↓Qte ka↑Nga↓ega ka↑waranakaQta↓ra, mo↑oiʧido i↑Qte kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_54.wav|0|wa↑taʃino ko↓kyoowa, kU↑sa i↑Q↓poN ha↑e↓nai yo↓ona to↑ʧideʃIta↓node,
+./segmented_character_voice\Roxy\Roxy_1500_55.wav|0|ko↑no ke↓ʃIkio mi↓rɯto, na↓Ntomo i↑enai ki↑moʧini na↑rima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_56.wav|0|mi↓te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_57.wav|0|a↑sokoni ɯ↑sɯrɯto ya↑ma↓ga mi↑e↓rɯdeʃo?
+./segmented_character_voice\Roxy\Roxy_1500_58.wav|0|e↑Q↓kaidesU. yo↓kɯ be↑Nkyoo ʃI↑te i↑ma↓sUne.
+./segmented_character_voice\Roxy\Roxy_1500_59.wav|0|ko↑kokara zɯ↑ɯQto kI↑ta↓nokata.
+./segmented_character_voice\Roxy\Roxy_1500_60.wav|0|a↑no sa↑Nmyakɯno mɯ↑ko↓oni, ra↓noato i↑ɯ kɯ↑niga a↑rima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_61.wav|0|fɯ↑yɯ↓wa to↑temo sa↑mɯ↓kUte, mo↑nosɯgo↓kɯ yɯ↑ki↓ga ʦɯ↑mo↓rɯ N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_62.wav|0|so↑rewa mo↓o, ko↑ooN↓nani.
+./segmented_character_voice\Roxy\Roxy_1500_63.wav|0|so↑koniwa ra↑noamahooda↓igakUto i↑ɯ, se↑ka↓iiʧino ma↑jɯʦɯga↓Qkooga a↓rɯ N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_64.wav|0|ki↑Ndai↓tekide ko↓odona ko↓ogio ɯ↑ke↓rɯ ko↑to↓ga de↑kima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_65.wav|0|ma↑hooda↓igakɯniwa, he↓Nna ka↑kUʃikiya pɯ↑raidoga a↑rimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_66.wav|0|sa↑ma↓zamana ʃɯ↓zokɯo ɯ↑keire, ma↑jimeni ma↓jɯʦɯo ke↑Nkyɯɯ ʃI↑te i↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_67.wav|0|mo↓ʃi, ko↑no ma↑ma↓rɯdiga ma↓jɯʦɯno mi↑ʧio sɯ↑sɯmita↓ito i↑ɯ no↑nara,
+./segmented_character_voice\Roxy\Roxy_1500_68.wav|0|ra↓noani i↑kU ko↑to↓o o↑sɯsɯmeʃima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_69.wav|0|so↑no yo↑bi↓katawa ya↑me↓te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_70.wav|0|a↑na↓tawa wa↑taʃio ka↑NtaNni ko↑ete ʃi↑maɯ↓deʃooʃi,
+./segmented_character_voice\Roxy\Roxy_1500_71.wav|0|ji↑bɯNyo↓ri o↑to↓rɯ mo↑no↓o ʃi↓ʃooto yo↑bɯ no↑wa i↑ya↓deʃoo.
+./segmented_character_voice\Roxy\Roxy_1500_72.wav|0|rɯ↓dinimo so↑noɯʧi wa↑ka↓rɯ yo↓oni na↑rima↓sUyo.
+./segmented_character_voice\Roxy\Roxy_1500_73.wav|0|ha↓i, rɯ↓di.
+./segmented_character_voice\Roxy\Roxy_1500_74.wav|0|so↑rewa ma↓sekidesU.
+./segmented_character_voice\Roxy\Roxy_1500_75.wav|0|ma↓ryokɯo zo↑ofUkɯ ʃI↑te kɯ↑rerɯ ki↓nooga a↓rɯnode, ki↑Qto ya↓kɯnitaʦU ha↑zɯde↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_76.wav|0|ʃo↑kyɯɯma↓jɯʦɯga ʦU↑kae↓rɯ yo↓oni na↓Qta se↓etoni, ʦɯ↓eo o↑kɯrɯ no↑ga ʦɯ↑ɯ↓reena no↑de↓sUga,
+./segmented_character_voice\Roxy\Roxy_1500_77.wav|0|rɯ↓diwa sa↑iʃokara ʦU↑kae↓te i↑ta↓node ʃI↑ʦɯneN ʃI↑te i↑ma↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_78.wav|0|mo↑oʃiwake a↑rimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_79.wav|0|so↑no to↑ʃi↓de jo↑okyɯɯkoogekima↓jɯʦɯo ʃi↓ʃItomo ʃU↑tokɯ ʃI↑ta no↑de↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_80.wav|0|mo↑osUko↓ʃi e↑ra↓sooni ʃI↑temo i↓i no↑de↓sUyo.
+./segmented_character_voice\Roxy\Roxy_1500_81.wav|0|ʃI↑ka↓ʃi, ko↑rede wa↑taʃiga a↑gerare↓rɯ mo↑no↓mo ho↑Ntooni go↓kɯ wa↓zɯkani na↑rima↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_82.wav|0|rɯ↓di, a↑ʃIta, so↑ʦɯgyooʃIke↓No o↑konaima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_83.wav|0|ko↑no a↓tarija me↓Qtani ma↑mononiwa a↑imase↓Nyo.
+./segmented_character_voice\Roxy\Roxy_1500_84.wav|0|so↑reni, a↓Qtemo yo↑wa↓idesUkara rɯ↓didemo ta↑osema↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_85.wav|0|sa↓tewa ko↑wa↓i N↓desUne.
+./segmented_character_voice\Roxy\Roxy_1500_86.wav|0|i↑gaini to↑ʃi↓soona to↑koromo a↓rɯ N↓desUne.
+./segmented_character_voice\Roxy\Roxy_1500_87.wav|0|no↑Qte ʃi↑mae↓ba, sɯ↓gɯni ko↑wa↓kɯnakɯ na↑rima↓sUyo.
+./segmented_character_voice\Roxy\Roxy_1500_88.wav|0|de↓sUyo, wa↑taʃiga ʦɯ↓ite i↑ma↓sUkara a↑NʃiN ʃI↑te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_89.wav|0|ko↑no a↓taride, ko↑rekara wa↑taʃiwa sɯ↑isee↓kyɯɯ ma↓jɯʦɯo ʦU↑kaima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_90.wav|0|i↑ʧi↓doʃIka ʦU↑kaimase↓N. ʃi↑Qka↓rito mi↓te, o↑boe↓te ʦU↑kaQte kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_91.wav|0|so↑rega so↑ʦɯgyooʃIke↓Nno na↑iyoode↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_92.wav|0|ʧi↑gaima↓sU. hI↑toya no↑osakɯ↓moʦɯni hi↓gaiga de↓rɯkamo ʃi↑renai↓karadesU.
+./segmented_character_voice\Roxy\Roxy_1500_93.wav|0|de↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_94.wav|0|i↓samɯ o↓okina mi↑zɯno se↑ereeni ʃI↑te, te↓Nni no↑bori↓ʃI ka↑minarimi↓kadono o↓ojiyo.
+./segmented_character_voice\Roxy\Roxy_1500_95.wav|0|wa↓ga ne↑ga↓io ka↑na↓e, kyo↑oboona↓rɯ me↑gɯmio mo↑tara↓ʃi,
+./segmented_character_voice\Roxy\Roxy_1500_96.wav|0|o↓ʃoonarɯ so↑Nzaini ʧI↑kara↓o mi↑seʦUkeyo.
+./segmented_character_voice\Roxy\Roxy_1500_97.wav|0|ka↓mino ka↑miatama↓o ka↑mi↓sokoni ɯ↑ʧIʦɯke↓te, yo↓i ko↑to↓o ʃi↑me↓ʃi,
+./segmented_character_voice\Roxy\Roxy_1500_98.wav|0|da↓iʧio mi↑zɯde ɯ↑rɯo↓sɯ.
+./segmented_character_voice\Roxy\Roxy_1500_99.wav|0|a↑a↓ameyo.
+./segmented_character_voice\Roxy\Roxy_1500_100.wav|0|sɯ↓beteo o↑ʃinaga↓ʃi.
+./segmented_character_voice\Roxy\Roxy_1500_101.wav|0|a↑rayɯ↓rɯ mo↑no↓o kU↑ʧikU se↓yo.
+./segmented_character_voice\Roxy\Roxy_1500_102.wav|0|ki↓mɯ ro↑nii↓masɯ.
+./segmented_character_voice\Roxy\Roxy_1500_103.wav|0|a↑bɯnai to↑korodeʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_104.wav|0|ko↑no ko↑to↓wa.
+./segmented_character_voice\Roxy\Roxy_1500_105.wav|0|na↑iʃode o↑negai ʃi↑ma↓sUne.
+./segmented_character_voice\Roxy\Roxy_1500_106.wav|0|sa↓ayaQte mi↓nasai.
+./segmented_character_voice\Roxy\Roxy_1500_107.wav|0|ka↑raba↓Qʧio wa↑taʃiga ma↑mo↓Qte o↑kima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_108.wav|0|wa↑taʃino te↑ho↓Nyori o↓okina mo↑no↓o ʦU↑kɯre↓naNte i↑Qtemase↓Nyo.
+./segmented_character_voice\Roxy\Roxy_1500_109.wav|0|za↑Nne↓NdesU.
+./segmented_character_voice\Roxy\Roxy_1500_110.wav|0|ko↑rede ho↑Ntooni wa↑taʃiga o↑ʃierarerɯ ko↑to↓mo na↑kɯnaQte ʃi↑maima↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_111.wav|0|o↑medetoogozaima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_112.wav|0|ko↑rede a↑na↓tawa sɯ↑isee↓kyɯɯ ma↑jɯʦɯ↓ʃidesU.
+./segmented_character_voice\Roxy\Roxy_1500_113.wav|0|a↑rigata↓i mo↑oʃidede↓sUga.
+./segmented_character_voice\Roxy\Roxy_1500_114.wav|0|ʃi↑ba↓rakɯwa se↓kaio ta↑bi ʃi↑na↓gara.
+./segmented_character_voice\Roxy\Roxy_1500_115.wav|0|a↑rata↓mete ma↓jɯʦɯno ɯ↑de↓o mi↑gakU ʦɯ↑moride↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_116.wav|0|de↓di.
+./segmented_character_voice\Roxy\Roxy_1500_117.wav|0|se↑ei↓Qpai ga↑Nba↓Qta ʦɯ↑moride↓sUga.
+./segmented_character_voice\Roxy\Roxy_1500_118.wav|0|wa↑taʃija a↑na↓tao ʃi↑doo sɯ↑rɯniwa ʧI↑karabɯ↓sokɯno yo↓odesU.
+./segmented_character_voice\Roxy\Roxy_1500_119.wav|0|so↑oda.
+./segmented_character_voice\Roxy\Roxy_1500_120.wav|0|ko↑rewa.
+./segmented_character_voice\Roxy\Roxy_1500_121.wav|0|wa↑taʃino ko↓kyoono o↑ma↓moridesU.
+./segmented_character_voice\Roxy\Roxy_1500_122.wav|0|so↑ʦɯgyooi↓waio yo↓oi sɯ↑rɯ ji↑kaNga na↓kaQtanode.
+./segmented_character_voice\Roxy\Roxy_1500_123.wav|0|ko↑rede ga↓maN ʃI↑te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_124.wav|0|de↓di.
+./segmented_character_voice\Roxy\Roxy_1500_125.wav|0|ʃi↑booʃari↓sUto.
+./segmented_character_voice\Roxy\Roxy_1500_126.wav|0|ma↓saka.
+./segmented_character_voice\Roxy\Roxy_1500_127.wav|0|ha↓i.
+./segmented_character_voice\Roxy\Roxy_1500_128.wav|0|de↓dimo pa↑ɯrosaN↓taʧimo.
+./segmented_character_voice\Roxy\Roxy_1500_129.wav|0|yo↓kaQta.
+./segmented_character_voice\Roxy\Roxy_1500_130.wav|0|pa↓ɯrosaN.
+./segmented_character_voice\Roxy\Roxy_1500_132.wav|0|pa↓ɯrosaNno o↑ʃi↓riaino ho↓odesUka.
+./segmented_character_voice\Roxy\Roxy_1500_133.wav|0|mo↓ʃi ni↑NʃiNdemo ʃI↑te ʃi↑ma↓Qtara.
+./segmented_character_voice\Roxy\Roxy_1500_134.wav|0|do↓o sɯ↑rɯ ki↑na no↑de↓sUka.
+./segmented_character_voice\Roxy\Roxy_1500_135.wav|0|ma↑Qtakɯ.
+./segmented_character_voice\Roxy\Roxy_1500_136.wav|0|e↑rina↓riizesaN.
+./segmented_character_voice\Roxy\Roxy_1500_137.wav|0|sa↑gasɯ no↑wa o↑toko↓dewanakɯ.
+./segmented_character_voice\Roxy\Roxy_1500_138.wav|0|ya↑me↓te kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_139.wav|0|da↑itai i↓ma.
+./segmented_character_voice\Roxy\Roxy_1500_140.wav|0|so↑Nna ko↑to↓ni ɯ↑ʦUʦɯo nɯ↑kaʃIte i↑rɯ i↑tomawaarimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_141.wav|0|sa↓a o fU↑tari↓wa ko↑kɯroono ki↓bano mo↑tome↓NbaadaQta no↑de↓sUyone.
+./segmented_character_voice\Roxy\Roxy_1500_142.wav|0|mɯ↑kaʃino pa↓ɯrosaNQte do↓Nna ka↑NjidaQta no↑deʃoo.
+./segmented_character_voice\Roxy\Roxy_1500_143.wav|0|de↑Qdoe↓Ndo.
+./segmented_character_voice\Roxy\Roxy_1500_144.wav|0|so↑rewa ma↑ta↓irikɯdewa ʃi↑ranɯ mo↑no↓wa i↑nai.
+./segmented_character_voice\Roxy\Roxy_1500_145.wav|0|a↓kɯmano na↑mae.
+./segmented_character_voice\Roxy\Roxy_1500_146.wav|0|sU↑perɯdo↓zokɯno na↓kademo to↓kɯni.
+./segmented_character_voice\Roxy\Roxy_1500_147.wav|0|kI↑keNde.
+./segmented_character_voice\Roxy\Roxy_1500_148.wav|0|so↑no na↑no to↑ori.
+./segmented_character_voice\Roxy\Roxy_1500_149.wav|0|so↑no sɯ↓gatao mi↓te ʃi↑mae↓ba.
+./segmented_character_voice\Roxy\Roxy_1500_150.wav|0|i↑ki↓tewa ka↑erena↓itoka.
+./segmented_character_voice\Roxy\Roxy_1500_151.wav|0|ri↓nariizesaN.
+./segmented_character_voice\Roxy\Roxy_1500_152.wav|0|ma↑jimeni ki↑ite kɯ↑dasa↓i.
+./segmented_character_voice\Roxy\Roxy_1500_153.wav|0|de↑Qdoe↓Ndowa ji↑ʦɯzai sɯ↑rɯ ji↓Nbɯʦɯna N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_154.wav|0|so↑reto o↑naji na↑maeno.
+./segmented_character_voice\Roxy\Roxy_1500_155.wav|0|bo↑okeNʃa pa↓atiiga.
+./segmented_character_voice\Roxy\Roxy_1500_156.wav|0|ma↑ryokUsa↓igaino no↑ʧi.
+./segmented_character_voice\Roxy\Roxy_1500_157.wav|0|ma↑ta↓irikɯde kyɯ↑ɯgekini na↑maega ɯ↑redaʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_158.wav|0|ko↑rewa gɯ↑ɯzeNna N↓deʃooka.
+./segmented_character_voice\Roxy\Roxy_1500_159.wav|0|o↑kaʃi↓idesUne.
+./segmented_character_voice\Roxy\Roxy_1500_160.wav|0|sU↑perɯdo↓zokɯwa a↑kagedewaarimase↓Nʃi.
+./segmented_character_voice\Roxy\Roxy_1500_161.wav|0|ma↑jɯʦɯ↓ʃidemo na↓i ha↑zɯ.
+./segmented_character_voice\Roxy\Roxy_1500_162.wav|0|ma↓ʃIteya.
+./segmented_character_voice\Roxy\Roxy_1500_163.wav|0|i↑i↓jiNnaNte.
+./segmented_character_voice\Roxy\Roxy_1500_164.wav|0|t o.
+./segmented_character_voice\Roxy\Roxy_1500_165.wav|0|to↓nikakU ka↑kawa↓ri go↑oini na↑ra↓nai yo↓o.
+./segmented_character_voice\Roxy\Roxy_1500_166.wav|0|ʧɯ↓ɯi ʃi↑maʃo↓o.
+./segmented_character_voice\Roxy\Roxy_1500_167.wav|0|mo↓ʃI ho↑Nmonono de↑Qdoe↓Ndodeareba.
+./segmented_character_voice\Roxy\Roxy_1500_168.wav|0|i↓noʧiga i↓kUʦɯ a↓Qtemo ta↑rimase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_169.wav|0|de↓wa ki↑o to↑rinao↓ʃIte.
+./segmented_character_voice\Roxy\Roxy_1500_170.wav|0|ho↑Ndaini ha↑irimaʃo↓o.
+./segmented_character_voice\Roxy\Roxy_1500_171.wav|0|fi↓Qtoariono ka↑ta↓gatani ka↑NʃIte.
+./segmented_character_voice\Roxy\Roxy_1500_172.wav|0|na↓nika jo↑ohoowa a↑rima↓ʃItaka.
+./segmented_character_voice\Roxy\Roxy_1500_173.wav|0|sɯ↓deni te↓Ni ʃI↑tekara i↑ʧi↓neN.
+./segmented_character_voice\Roxy\Roxy_1500_174.wav|0|o↑so↓sɯgita no↑ka↓mo ʃi↑remase↓Nne.
+./segmented_character_voice\Roxy\Roxy_1500_175.wav|0|mo↑Qto↓mo wa↑taʃi↓taʧiga sa↑gasɯ no↑wa.
+./segmented_character_voice\Roxy\Roxy_1500_176.wav|0|pa↓orosaNno ka↓zokɯdesU.
+./segmented_character_voice\Roxy\Roxy_1500_177.wav|0|t o na↓rɯto ya↑ha↓ri sa↑gasɯbe↓kiwa.
+./segmented_character_voice\Roxy\Roxy_1500_178.wav|0|ri↓riato a↓iʃadesUne.
+./segmented_character_voice\Roxy\Roxy_1500_179.wav|0|sɯ↑mimase↓Nga o fU↑tari↓tomo.
+./segmented_character_voice\Roxy\Roxy_1500_180.wav|0|yo↑roʃIkɯonegaiʃima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_181.wav|0|bɯ↑enamɯrao ha↓narete ro↑kɯ↓neN.
+./segmented_character_voice\Roxy\Roxy_1500_182.wav|0|rɯ↓diwa do↑rekɯ↓rai.
+./segmented_character_voice\Roxy\Roxy_1500_183.wav|0|o↓okIkɯnaQta no↑deʃoo↓ka.
+./segmented_character_voice\Roxy\Roxy_1500_184.wav|0|a↑kageno ke↓NʃIto ya↑rio mo↓Qta.
+./segmented_character_voice\Roxy\Roxy_1500_185.wav|0|ʧo↑o↓kamino o↑toko.
+./segmented_character_voice\Roxy\Roxy_1500_186.wav|0|mo↓ʃIkaʃIte re↓eno de↑Qdoe↓Ndodeʃooka.
+./segmented_character_voice\Roxy\Roxy_1500_187.wav|0|ka↓inɯʃItoka i↓ɯ ʧi↓biwa.
+./segmented_character_voice\Roxy\Roxy_1500_188.wav|0|i↑nai yo↓odesUne.
+./segmented_character_voice\Roxy\Roxy_1500_189.wav|0|ko↑no fU↑tari ʦɯ↑yo↓i.
+./segmented_character_voice\Roxy\Roxy_1500_190.wav|0|ma↓saka ho↑Ntooni sU↑perɯdo↓zokɯnaNte ko↑to.
+./segmented_character_voice\Roxy\Roxy_1500_191.wav|0|sU↑perɯ↓do.
+./segmented_character_voice\Roxy\Roxy_1500_192.wav|0|ma↓saka i↑te i↑ta↓dakede.
+./segmented_character_voice\Roxy\Roxy_1500_193.wav|0|o↑so↓Qte kɯ↑rɯtoka↓naidesUyone.
+./segmented_character_voice\Roxy\Roxy_1500_194.wav|0|ya↓dono ʃɯ↑ɯri↓hi.
+./segmented_character_voice\Roxy\Roxy_1500_195.wav|0|ka↓nari i↑ta↓i ʃɯ↑Qpide↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_196.wav|0|jo↑ohooʃɯ↓ɯʃɯɯmo ʧɯ↑ɯtoha↓NpadesUʃi.
+./segmented_character_voice\Roxy\Roxy_1500_197.wav|0|ze↓Nbɯ e↑ri↓no ri↓izesaN wa↑rɯ↓i N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_198.wav|0|da↓karaQte.
+./segmented_character_voice\Roxy\Roxy_1500_199.wav|0|a↑no go↓niN.
+./segmented_character_voice\Roxy\Roxy_1500_200.wav|0|go↓niNdesUyo.
+./segmented_character_voice\Roxy\Roxy_1500_201.wav|0|wa↑taʃiwa i↓ʦUka.
+./segmented_character_voice\Roxy\Roxy_1500_202.wav|0|o↑tokoraʃi↓kU se↓ga sɯ↑ra↓Qto ta↑ka↓kUte.
+./segmented_character_voice\Roxy\Roxy_1500_203.wav|0|de↓mo ma↓da ko↑domoQpoi.
+./segmented_character_voice\Roxy\Roxy_1500_204.wav|0|hyo↑ojo↓oo sɯ↑rɯ se↑eneNni.
+./segmented_character_voice\Roxy\Roxy_1500_205.wav|0|me↑ekyɯɯno o↓kUsokode gɯ↑ɯzeN ta↑sUkerare↓rɯ N↓desU.
+./segmented_character_voice\Roxy\Roxy_1500_206.wav|0|so↑ʃIte.
+./segmented_character_voice\Roxy\Roxy_1500_207.wav|0|so↑no ma↑maʧi↓karao a↑wase↓te i↑kɯ ɯ↑ʧini.
+./segmented_character_voice\Roxy\Roxy_1500_208.wav|0|ta↑gaini ko↓ega me↑bae↓te.
+./segmented_character_voice\Roxy\Roxy_1500_209.wav|0|me↑ekyɯɯo da↑QʃUʦɯ ʃI↑ta to↑korode.
+./segmented_character_voice\Roxy\Roxy_1500_210.wav|0|so↑Nna ko↑to↓yori sa↓a.
+./segmented_character_voice\Roxy\Roxy_1500_211.wav|0|ha↓yakU ʦɯ↑gi↓no ma↑ʧi↓e i↑kima↓sUyo.
+./segmented_character_voice\Roxy\Roxy_1500_212.wav|0|so↓odesUne.
+./segmented_character_voice\Roxy\Roxy_1500_213.wav|0|o↑ʧIko↓Nde i↑rɯto i↑ɯ no↑wa sU↑ko↓ʃI ʃi↑Npaide↓sUga.
+./segmented_character_voice\Roxy\Roxy_1500_214.wav|0|rɯ↓dinaraba ka↑narazɯ ji↑bɯNno ʧI↑kara↓de ta↑ʧiagare↓rɯ ha↑zɯde↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_215.wav|0|o↑kanemo mo↑tazɯni.
+./segmented_character_voice\Roxy\Roxy_1500_216.wav|0|da↑me↓janaidesUka.
+./segmented_character_voice\Roxy\Roxy_1500_217.wav|0|ma↑Qtakɯ.
+./segmented_character_voice\Roxy\Roxy_1500_218.wav|0|ho↑obiQte.
+./segmented_character_voice\Roxy\Roxy_1500_219.wav|0|sU↑kaNpi↓Nno kU↑se↓ni na↓ni i↑Qte↓rɯ N↓desUka.
+./segmented_character_voice\Roxy\Roxy_1500_220.wav|0|ka↑narazɯ o↑kanewa ka↑eʃi↓te mo↑raima↓sUkarane.
+./segmented_character_voice\Roxy\Roxy_1500_221.wav|0|ha↑i↓hai.
+./segmented_character_voice\Roxy\Roxy_1500_222.wav|0|ja↓a wa↑taʃino ka↑warini.
+./segmented_character_voice\Roxy\Roxy_1500_223.wav|0|he↓ekano so↑no me↓de.
+./segmented_character_voice\Roxy\Roxy_1500_224.wav|0|hI↑to sa↑gaʃItemo o↑negai ʃi↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_225.wav|0|ʧi↑gaima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_226.wav|0|rɯ↓ɯ de↑ɯsɯgɯreira↓Qtoto i↑ɯ ji↓Nbɯʦɯno.
+./segmented_character_voice\Roxy\Roxy_1500_227.wav|0|ho↑ʃiefɯ↓meeno ka↓zokɯdesU.
+./segmented_character_voice\Roxy\Roxy_1500_228.wav|0|so↑reni ke↑N↓oo gi↓renɯtomo ʃi↑riaini na↓rɯnaNte.
+./segmented_character_voice\Roxy\Roxy_1500_229.wav|0|ha↓a.
+./segmented_character_voice\Roxy\Roxy_1500_230.wav|0|wa↑taʃino mi↑zɯabio no↑zoite i↑ta ko↓rono rɯ↓ɯ de↓ɯsɯwa.
+./segmented_character_voice\Roxy\Roxy_1500_231.wav|0|do↓koni i↑Qte ʃi↑ma↓Qta no↑deʃoo↓ka.
+./segmented_character_voice\Roxy\Roxy_1500_232.wav|0|to↑oi hI↑toni na↓Qte ʃi↑maima↓ʃItane.
+./segmented_character_voice\Roxy\Roxy_1500_233.wav|0|ko↑ʧirawa a↑ikawara↓zɯ.
+./segmented_character_voice\Roxy\Roxy_1500_234.wav|0|o↓ojini te↓o ya↑ite i↑ma↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_235.wav|0|sa↓te ho↑Ndaide↓sUga.
+./segmented_character_voice\Roxy\Roxy_1500_236.wav|0|ma↑ji↓Ngoo na↑raita↓ito i↑ɯ ha↑naʃi↓deʃItane.
+./segmented_character_voice\Roxy\Roxy_1500_237.wav|0|ma↑ji↓Ngowa bɯ↑NkeNga sU↑kɯna↓kɯ.
+./segmented_character_voice\Roxy\Roxy_1500_238.wav|0|bɯ↑Npoomo do↑kUtokɯde mɯ↑zɯkaʃi↓ito o↑moima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_239.wav|0|na↑node fU↑ʃoona↓gara i↑Q↓saʦɯ.
+./segmented_character_voice\Roxy\Roxy_1500_240.wav|0|kyo↑oka↓ʃono yo↓ona mo↑no↓o ka↑kima↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_241.wav|0|ko↑rewa wa↑taʃino ji↑ki↓hIʦɯdesU.
+./segmented_character_voice\Roxy\Roxy_1500_242.wav|0|ka↓nari ji↑kaNga ka↑ka↓Qtanode.
+./segmented_character_voice\Roxy\Roxy_1500_243.wav|0|ta↑iseʦɯni ʃI↑te mo↑raerɯto ɯ↑reʃi↓idesU.
+./segmented_character_voice\Roxy\Roxy_1500_244.wav|0|ho↓Nyatokani na↑raNde ta↓ra na↑kUkamo ʃi↑remase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_245.wav|0|so↑o i↓eba se↑Njiʦɯ o↓ojiga.
+./segmented_character_voice\Roxy\Roxy_1500_246.wav|0|wa↑taʃini so↑Qkɯ↓rino ʧo↑o↓zooo ka↑Qte ki↑ma↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_247.wav|0|ro↓obɯga ʧa↑kɯdaʦɯ↓ʃIkide.
+./segmented_character_voice\Roxy\Roxy_1500_248.wav|0|ta↑ikeekara ho↑kɯrono i↓ʧimade.
+./segmented_character_voice\Roxy\Roxy_1500_249.wav|0|o↑najideʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_250.wav|0|mo↓ʃIka sɯ↑rɯto ki↑NjiʦUʧɯɯni.
+./segmented_character_voice\Roxy\Roxy_1500_251.wav|0|no↑roikoro↓sarerɯkamo ʃi↑remase↓N.
+./segmented_character_voice\Roxy\Roxy_1500_252.wav|0|fɯ↑aNde↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_253.wav|0|da↑ijoobɯ↓soonara ma↑ta te↑gamio da↑ʃima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_254.wav|0|ro↑ki↓ʃiiyori.
+./segmented_character_voice\Roxy\Roxy_1500_255.wav|0|rɯ↓ɯ de↓ɯsɯsamae.
+./segmented_character_voice\Roxy\Roxy_1500_256.wav|0|o↑tegamiha↓ikeN ʃi↑ma↓ʃIta.
+./segmented_character_voice\Roxy\Roxy_1500_257.wav|0|mo↓o ha↑Q↓saini na↑rarema↓sUka.
+./segmented_character_voice\Roxy\Roxy_1500_258.wav|0|se↑eʧoo na↓sareta ko↑to↓to o↑moima↓sU.
+./segmented_character_voice\Roxy\Roxy_1500_259.wav|0|ma↓saka fi↑Qtoai↓rio.
+./segmented_character_voice\Roxy\Roxy_1500_260.wav|0|ryo↓oʃɯ go↓sokɯ o↑Nna↓no ka↑teekyo↓oʃItowa.
+./segmented_character_voice\Roxy\Roxy_1500_261.wav|0|o↑dorokide hi↑ra↓ita kU↑ʧiga fU↑sagarimase↓N.
